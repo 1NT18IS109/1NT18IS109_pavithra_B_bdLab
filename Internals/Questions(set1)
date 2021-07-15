@@ -1,0 +1,13 @@
+Question-I
+Prepare the dataset of 20 records
+
+MongoDB
+1) Demonstrate the usage of $match, $group, aggregate pipelines.
+2) Demonstrate the Map-Reduce aggregate function on this dataset.
+3) Find out all the Employees, who are paying tax>50000 and are not eligible for pay raise. 
+4) Demonstrate the Alter and Drop commands on this dataset. 
+
+Hadoop-MapReduce
+Use the Hadoop MapReduce programming framework to compute with a program which will take the data from this .csv file and compute the following,
+1) Find out the total number of employees who are eligible for pay raise. 
+2) Find out the Cumulative years of services done for the company by all the employees.
